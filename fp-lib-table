@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "xiao_lib")(type "KiCad")(uri "${KIPRJMOD}/xiao_lib")(options "")(descr ""))
+)
