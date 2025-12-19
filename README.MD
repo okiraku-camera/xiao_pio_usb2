@@ -9,6 +9,7 @@ This project provides KiCad 6.11 PCB design files for building a hoboNicola adap
 By assembling the XIAO, a USB Type-A receptacle, and a few passives, you can convert a standard USB keyboard into an almost-NICOLA (thumb-shift) keyboard.  
 The adapter receives HID input as a USB host, processes it with the hoboNicola firmware, and outputs transformed HID reports to the connected PC.
 
+このPCBを使ってpio-usb-hoboNicolaアダプターの作り方については、[ブログ](https://okiraku-camera.tokyo/blog/?p=17060)にまとめています。
 
 ## hoboNicolaアダプターとは
 hoboNicolaアダプターは、ふつうキーボードをほぼNICOLAキーボード (親指シフトキーボード) のように使うためのハードウェアです。
